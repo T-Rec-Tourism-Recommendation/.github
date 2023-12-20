@@ -6,11 +6,7 @@ Tourism, Cultural and Hospitality
 
 ### T-Rec App
 
-link apk
-
-### Screenshot
-
-### Contributor
+### Contributors
 
 | Name | Student ID | University | Contact |
 | --- | --- | --- | --- |
