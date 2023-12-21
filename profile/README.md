@@ -17,4 +17,4 @@ Tourism, Cultural and Hospitality
 | Ilham Hibatul Wafi | M227BSY1170  | Universitas Jember |  |
 | Faisal Bahari | M227BSY1188 | Universitas Jember |  |
 | Cici Asmawati | A269BSX2593 | Universitas Mulawarman |  |
-| Khansa Mawartika Hilm | A397BKX4493 | IAIN Kudus |  |
+| Khansa Mawartika Hilman | A397BKX4493 | IAIN Kudus |  |
