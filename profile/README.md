@@ -9,7 +9,7 @@ Tourism, Cultural and Hospitality
 
 ### Contributors
 
-| Name | Student ID | University | Contact |
+| Name | Student ID | University | Github |
 | --- | --- | --- | --- |
 | Ro’uf Aufalin Al Ghoitsal | C283BSY3643 | Universitas Negeri Semarang | [RoufAufalin](https://github.com/RoufAufalin) |
 | Novia Tessa Rotua Pasaribu | C319BSX4201 | Universitas Sumatera Utara |  |
