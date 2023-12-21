@@ -11,7 +11,7 @@ Tourism, Cultural and Hospitality
 
 | Name | Student ID | University | Contact |
 | --- | --- | --- | --- |
-| Ro’uf Aufalin Al Ghoitsal | C283BSY3643 | Universitas Negeri Semarang |  |
+| Ro’uf Aufalin Al Ghoitsal | C283BSY3643 | Universitas Negeri Semarang | [RoufAufalin](https://github.com/RoufAufalin) |
 | Novia Tessa Rotua Pasaribu | C319BSX4201 | Universitas Sumatera Utara |  |
 | Muhammad Zidan Maali | M283BSY0622 | Universitas Negeri Semarang |  |
 | Ilham Hibatul Wafi | M227BSY1170  | Universitas Jember |  |
