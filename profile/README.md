@@ -1,4 +1,5 @@
 ## **🦖T-Rec App**
+![logocapstone-04](https://github.com/T-Rec-Tourism-Recommendation/.github/assets/93929934/4f214922-74ca-4cf0-97dc-c93c29278cdf)
 
 ### Theme🌴
 
